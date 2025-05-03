@@ -1,0 +1,16 @@
+{
+    "name": "abc",
+    "version": "1.0.0",
+    "description": "My homepage project",
+    "main": "index.html",
+    "scripts": {
+      "start": "http-server ."
+    },
+    "devDependencies": {
+      "http-server": "^14.1.1"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+  
+  
